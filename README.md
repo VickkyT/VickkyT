@@ -1,14 +1,14 @@
 ### Hi there 👋
+
 My name is **Victoria Terry**
 <!--
 **VickkyT/VickkyT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+I am a Data Analyst
+I am cuurently learning Data Analysis with Dahel Techies
 
-*I am a Data Analyst*
-I am cuurently learning SQL
-- 🌱 I am currently learning SQL
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on various tech companies to showecase my skills and capabilities
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
